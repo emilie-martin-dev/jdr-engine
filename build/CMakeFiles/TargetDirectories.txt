@@ -1,0 +1,10 @@
+/mnt/Data/projects/jdr-engine/build/CMakeFiles/jdr-engine.dir
+/mnt/Data/projects/jdr-engine/build/CMakeFiles/jdr-engine-tests.dir
+/mnt/Data/projects/jdr-engine/build/CMakeFiles/edit_cache.dir
+/mnt/Data/projects/jdr-engine/build/CMakeFiles/rebuild_cache.dir
+/mnt/Data/projects/jdr-engine/build/submodules/Catch2/CMakeFiles/edit_cache.dir
+/mnt/Data/projects/jdr-engine/build/submodules/Catch2/CMakeFiles/rebuild_cache.dir
+/mnt/Data/projects/jdr-engine/build/submodules/Catch2/src/CMakeFiles/Catch2.dir
+/mnt/Data/projects/jdr-engine/build/submodules/Catch2/src/CMakeFiles/Catch2WithMain.dir
+/mnt/Data/projects/jdr-engine/build/submodules/Catch2/src/CMakeFiles/edit_cache.dir
+/mnt/Data/projects/jdr-engine/build/submodules/Catch2/src/CMakeFiles/rebuild_cache.dir

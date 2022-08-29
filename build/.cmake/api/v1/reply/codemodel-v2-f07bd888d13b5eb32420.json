@@ -1,0 +1,136 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "submodules/Catch2",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-submodules.Catch2-Debug-a6ca27c770888be1de0e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "submodules/Catch2"
+				},
+				{
+					"build" : "submodules/Catch2/src",
+					"jsonFile" : "directory-submodules.Catch2.src-Debug-004e833f12e6b3c5de32.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "submodules/Catch2/src",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "jdr-engine",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2
+					],
+					"name" : "Catch2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "Catch2::@dd5ef3009d721694ea98",
+					"jsonFile" : "target-Catch2-Debug-4b7d4a5a92bc5bebfef3.json",
+					"name" : "Catch2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Catch2WithMain::@dd5ef3009d721694ea98",
+					"jsonFile" : "target-Catch2WithMain-Debug-57ee906b393e8140be66.json",
+					"name" : "Catch2WithMain",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "jdr-engine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-jdr-engine-Debug-0a7674296912f11db4f0.json",
+					"name" : "jdr-engine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "jdr-engine-tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-jdr-engine-tests-Debug-0e9c3866be5a8436780e.json",
+					"name" : "jdr-engine-tests",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/Data/projects/jdr-engine/build",
+		"source" : "/mnt/Data/projects/jdr-engine"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

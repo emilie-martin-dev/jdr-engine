@@ -1,0 +1,1 @@
+/usr/bin/g++ -g "CMakeFiles/jdr-engine-tests.dir/src/jdrengine-tests.cpp.o" -o jdr-engine-tests  submodules/Catch2/src/libCatch2Maind.a submodules/Catch2/src/libCatch2d.a 

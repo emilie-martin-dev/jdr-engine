@@ -1,0 +1,6 @@
+[submodule "submodules/CrashEngine"]
+	path = submodules/CrashEngine
+	url = https://github.com/justine-martin-dev/CrashEngine
+[submodule "submodules/Catch2"]
+	path = submodules/Catch2
+	url = https://github.com/catchorg/Catch2
